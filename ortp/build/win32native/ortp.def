@@ -204,3 +204,5 @@ EXPORTS
 	ortp_client_pipe_connect
 	ortp_client_pipe_close
 	ortp_file_exist
+
+    rtp_session_create_packet_in_place
