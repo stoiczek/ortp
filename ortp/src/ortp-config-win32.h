@@ -26,9 +26,9 @@
 #define ORTP_EXTRA_VERSION
 
 /* define the debug mode */
-#define RTP_DEBUG 1
+#define RTP_DEBUG 0
 
-#define HAVE_SRTP 1
+#define HAVE_SRTP 0
 
 /* enables SO_REUSEADDR socket option in the rtp_session_set_local_addr() function */
 #define SO_REUSE_ADDR 1
